@@ -1,5 +1,6 @@
 # pythonHakrnk
 https://www.hackerrank.com/profile/mourad_smail
+
 A collection of Python practice solutions covering core Python concepts and NumPy operations, primarily based on [HackerRank](https://www.hackerrank.com/) challenges.
 
 ## Table of Contents
